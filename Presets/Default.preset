@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Preset version="4" progName="Default" currentPresetFilePath="Default.preset" currentPresetFileRoot="1" MIDIInputDefault="1" MIDIOutputDefault="1" MIDIProgramChangeChannel="-1">
+    <MIDIController.meta locked="0"/>
+    <MIDINextPresetSetting channel="0" number="0" midiEnabled="0" type="CC"/>
+    <MIDIPrevPresetSetting channel="0" number="0" midiEnabled="0" type="CC"/>
+    <inputParams count="11" p0="0" p1="0" p2="5000" p3="0" p4="0" p5="50" p6="0" p7="0" p8="1" p9="0" p10="1"/>
+    <inputStrings count="1" s0="%FACTORY_SCRIPTS_PATH%/default.x64"/>
+    <model/>
+    <GUI version="1" useDefault="1" skinZoom="1" changedSincePresetLoaded="0">
+        <skin version="2">
+            <state version="5">
+                <params pCount="1">
+                    <p0 name="global_opacity" value="100"/>
+                </params>
+            </state>
+        </skin>
+    </GUI>
+</Preset>
